@@ -1,2 +1,1 @@
-# SVV-rifkikesepara
-SWE 202 SOFTWARE VERIFICATION AND VALIDATION Homework 1
+# SVV-SampleApp
